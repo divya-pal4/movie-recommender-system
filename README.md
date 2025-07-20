@@ -2,7 +2,8 @@
 
 ## 🎬 Demo Video
 
-🎥 [Click here to watch the video](https://github.com/divya-pal4/movie-recommender-system/releases/download/v1.0/demo.mp4)
+🎥 [Click here to watch the video](https://github.com/divya-pal4/movie-recommender-system/releases/download/v1.0/moviesRecommender.mp4
+)
 
 
 # Recommendation Systems
