@@ -2,7 +2,7 @@
 
 #Watch out Video-->
 
-https://github.com/divya-pal4/movie-recommender-system/releases/tag/v1.0
+[Watch Now](https://github.com/divya-pal4/movie-recommender-system/releases/tag/v1.0)
 
 
 # Recommendation Systems
