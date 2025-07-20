@@ -2,8 +2,7 @@
 
 #Watch out Video-->
 
-https://github.com/user-attachments/assets/e467f504-f18c-410e-bfa1-a8748ddf5088
-
+https://github.com/divya-pal4/movie-recommender-system/releases/tag/v1.0
 
 
 # Recommendation Systems
