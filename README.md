@@ -73,9 +73,7 @@ This Movie Recommender System suggests movies based on user preferences using te
 ## 🔧 Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/shree_sriv12/movie-recommender-system.git
-Sorry: you got to install  the credits.csv file from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata🥲
-cd movie-recommender-system
+git clone https://github.com/divya-pal4/movie-recommender-system.git
 ```
 
 
@@ -99,15 +97,25 @@ streamlit run app.py or python3 -m streamlit run app.py(runs on my system ><)
 
 ## 📁 File Structure
 ```
-📂 movie-recommender
-├── app.py              # Streamlit app
-├── model.py            # Recommendation system logic
-├── movies.pkl          # Preprocessed movie data
-├── similarity.pkl      # Cosine similarity matrix
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
+📂movie-recommender-system/
+├── app.py                  # Streamlit app
+├── recommender/
+│   └── model.py            # Core recommendation logic
+├── datasets/
+│   ├── movies.csv
+│   └── credits.csv
+├── models/
+│   ├── movie_list.pkl      # Preprocessed movie data
+│   └── similarity.pkl      # Cosine similarity matrix
+├── requirements.txt        # Dependencies
+└── README.md               # Project documentation
+         
 ```
-
+## ⚠️ Note
+1. The .pkl files are large and are not committed to GitHub.
+Run model.py once to generate them.
+2. Make sure datasets/ folder exists with the proper files before running.
+3. Do not place model files inside venv/ — instead, keep them in models/ and add to .gitignore.
 
 🌟 **Enjoy your movie recommendations!** 🎬🍿
 
