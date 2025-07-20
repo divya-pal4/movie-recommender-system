@@ -1,8 +1,8 @@
 
 
-#Watch out Video-->
+## 🎥 Demo Video
 
-[Watch Now](https://github.com/divya-pal4/movie-recommender-system/releases/tag/v1.0)
+📽️ [Watch the Demo](https://github.com/divya-pal4/movie-recommender-system/releases/download/v1.0/demo.mp4)
 
 
 # Recommendation Systems
